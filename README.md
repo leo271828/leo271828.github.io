@@ -26,8 +26,6 @@
         - 科系、大學、未來
         - 大學最重要的東西
         - 我是說在座的各位
-- 個人生活照
-    - [https://drive.google.com/file/d/1oU5z-tJjbOQNrzyVMT01pn1hxTvb-cVK/view?usp=share_link](https://drive.google.com/file/d/1oU5z-tJjbOQNrzyVMT01pn1hxTvb-cVK/view?usp=share_link)
 - 三個 Hashtag
     1. 我恨數數兒
     2. 我又沒有念書
