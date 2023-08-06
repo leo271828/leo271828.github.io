@@ -30,6 +30,15 @@ After reading &lt;i&gt;&lt;b&gt;Walden&lt;/b&gt;&lt;/i&gt;, a collection of essa
     
     <item>
       <title>Shortcodes Syntax</title>
+      <link>https://leo271828.github.io/blog/shortcodes-test/</link>
+      <pubDate>Wed, 26 Apr 2023 06:04:57 +0000</pubDate>
+      <author>leo2.7182818284@gmail.com (Leo)</author>
+      <guid>https://leo271828.github.io/blog/shortcodes-test/</guid>
+      <description>&lt;p&gt;Shortcodes are simple snippets inside your content files calling built-in or custom templates. They are created to circumvent the limitations of Markdown Syntax.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes Test</title>
       <link>https://leo271828.github.io/blog/shortcodes-syntax/</link>
       <pubDate>Wed, 26 Apr 2023 06:04:57 +0000</pubDate>
       <author>leo2.7182818284@gmail.com (Leo)</author>

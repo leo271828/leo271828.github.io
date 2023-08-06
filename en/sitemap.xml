@@ -2,83 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://walden.genway.com.cn/blog/</loc>
+    <loc>https://leo271828.github.io/blog/</loc>
     <lastmod>2023-04-28T09:03:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans-CN"
-                href="https://walden.genway.com.cn/zh/blog/"
+                href="https://leo271828.github.io/zh/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://walden.genway.com.cn/blog/"
+                href="https://leo271828.github.io/blog/"
                 />
   </url><url>
-    <loc>https://walden.genway.com.cn/categories/</loc>
+    <loc>https://leo271828.github.io/categories/</loc>
     <lastmod>2023-04-28T09:03:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans-CN"
-                href="https://walden.genway.com.cn/zh/categories/"
+                href="https://leo271828.github.io/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://walden.genway.com.cn/categories/"
+                href="https://leo271828.github.io/categories/"
                 />
   </url><url>
-    <loc>https://walden.genway.com.cn/</loc>
+    <loc>https://leo271828.github.io/</loc>
     <lastmod>2023-04-28T09:03:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans-CN"
-                href="https://walden.genway.com.cn/zh/"
+                href="https://leo271828.github.io/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://walden.genway.com.cn/"
+                href="https://leo271828.github.io/"
                 />
   </url><url>
-    <loc>https://walden.genway.com.cn/tags/hugo/</loc>
+    <loc>https://leo271828.github.io/tags/hugo/</loc>
     <lastmod>2023-04-28T09:03:08+08:00</lastmod>
   </url><url>
-    <loc>https://walden.genway.com.cn/blog/hugo-theme-walden/</loc>
+    <loc>https://leo271828.github.io/blog/hugo-theme-walden/</loc>
     <lastmod>2023-04-28T09:03:08+08:00</lastmod>
   </url><url>
-    <loc>https://walden.genway.com.cn/tags/</loc>
+    <loc>https://leo271828.github.io/tags/</loc>
     <lastmod>2023-04-28T09:03:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans-CN"
-                href="https://walden.genway.com.cn/zh/tags/"
+                href="https://leo271828.github.io/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://walden.genway.com.cn/tags/"
+                href="https://leo271828.github.io/tags/"
                 />
   </url><url>
-    <loc>https://walden.genway.com.cn/categories/theme-walden/</loc>
+    <loc>https://leo271828.github.io/categories/theme-walden/</loc>
     <lastmod>2023-04-28T09:03:08+08:00</lastmod>
   </url><url>
-    <loc>https://walden.genway.com.cn/tags/walden/</loc>
+    <loc>https://leo271828.github.io/tags/walden/</loc>
     <lastmod>2023-04-28T09:03:08+08:00</lastmod>
   </url><url>
-    <loc>https://walden.genway.com.cn/tags/shortcodes/</loc>
+    <loc>https://leo271828.github.io/tags/shortcodes/</loc>
     <lastmod>2023-04-27T02:12:52+00:00</lastmod>
   </url><url>
-    <loc>https://walden.genway.com.cn/blog/shortcodes-syntax-carousel/</loc>
+    <loc>https://leo271828.github.io/blog/shortcodes-syntax-carousel/</loc>
     <lastmod>2023-04-27T02:12:52+00:00</lastmod>
   </url><url>
-    <loc>https://walden.genway.com.cn/blog/shortcodes-syntax/</loc>
+    <loc>https://leo271828.github.io/blog/shortcodes-test/</loc>
     <lastmod>2023-04-26T06:04:57+00:00</lastmod>
   </url><url>
-    <loc>https://walden.genway.com.cn/tags/markdown/</loc>
+    <loc>https://leo271828.github.io/blog/shortcodes-syntax/</loc>
+    <lastmod>2023-04-26T06:04:57+00:00</lastmod>
+  </url><url>
+    <loc>https://leo271828.github.io/tags/markdown/</loc>
     <lastmod>2023-04-26T01:04:58+00:00</lastmod>
   </url><url>
-    <loc>https://walden.genway.com.cn/blog/markdown-syntax/</loc>
+    <loc>https://leo271828.github.io/blog/markdown-syntax/</loc>
     <lastmod>2023-04-26T01:04:58+00:00</lastmod>
   </url>
 </urlset>

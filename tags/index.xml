@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag on Leo</title>
-    <link>https://walden.genway.com.cn/tags/</link>
+    <link>https://leo271828.github.io/tags/</link>
     <description>Recent content in Tag on Leo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>leo2.7182818284@gmail.com (Leo)</managingEditor>
     <webMaster>leo2.7182818284@gmail.com (Leo)</webMaster>
-    <lastBuildDate>Fri, 28 Apr 2023 09:03:08 +0800</lastBuildDate><atom:link href="https://walden.genway.com.cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Apr 2023 09:03:08 +0800</lastBuildDate><atom:link href="https://leo271828.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>https://walden.genway.com.cn/tags/hugo/</link>
+      <link>https://leo271828.github.io/tags/hugo/</link>
       <pubDate>Fri, 28 Apr 2023 09:03:08 +0800</pubDate>
       <author>leo2.7182818284@gmail.com (Leo)</author>
-      <guid>https://walden.genway.com.cn/tags/hugo/</guid>
+      <guid>https://leo271828.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Walden</title>
-      <link>https://walden.genway.com.cn/tags/walden/</link>
+      <link>https://leo271828.github.io/tags/walden/</link>
       <pubDate>Fri, 28 Apr 2023 09:03:08 +0800</pubDate>
       <author>leo2.7182818284@gmail.com (Leo)</author>
-      <guid>https://walden.genway.com.cn/tags/walden/</guid>
+      <guid>https://leo271828.github.io/tags/walden/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shortcodes</title>
-      <link>https://walden.genway.com.cn/tags/shortcodes/</link>
+      <link>https://leo271828.github.io/tags/shortcodes/</link>
       <pubDate>Thu, 27 Apr 2023 02:12:52 +0000</pubDate>
       <author>leo2.7182818284@gmail.com (Leo)</author>
-      <guid>https://walden.genway.com.cn/tags/shortcodes/</guid>
+      <guid>https://leo271828.github.io/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>https://walden.genway.com.cn/tags/markdown/</link>
+      <link>https://leo271828.github.io/tags/markdown/</link>
       <pubDate>Wed, 26 Apr 2023 01:04:58 +0000</pubDate>
       <author>leo2.7182818284@gmail.com (Leo)</author>
-      <guid>https://walden.genway.com.cn/tags/markdown/</guid>
+      <guid>https://leo271828.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
