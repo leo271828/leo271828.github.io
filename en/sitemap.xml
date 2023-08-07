@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leo271828.github.io/blog/</loc>
-    <lastmod>2023-04-28T09:03:08+08:00</lastmod>
+    <lastmod>2023-08-08T01:09:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans-CN"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://leo271828.github.io/categories/</loc>
-    <lastmod>2023-04-28T09:03:08+08:00</lastmod>
+    <lastmod>2023-08-08T01:09:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans-CN"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://leo271828.github.io/</loc>
-    <lastmod>2023-04-28T09:03:08+08:00</lastmod>
+    <lastmod>2023-08-08T01:09:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans-CN"
@@ -41,14 +41,17 @@
                 href="https://leo271828.github.io/"
                 />
   </url><url>
-    <loc>https://leo271828.github.io/tags/hugo/</loc>
-    <lastmod>2023-04-28T09:03:08+08:00</lastmod>
+    <loc>https://leo271828.github.io/blog/leo_self/</loc>
+    <lastmod>2023-08-08T01:09:08+08:00</lastmod>
   </url><url>
-    <loc>https://leo271828.github.io/blog/hugo-theme-walden/</loc>
-    <lastmod>2023-04-28T09:03:08+08:00</lastmod>
+    <loc>https://leo271828.github.io/tags/me/</loc>
+    <lastmod>2023-08-08T01:09:08+08:00</lastmod>
+  </url><url>
+    <loc>https://leo271828.github.io/categories/self/</loc>
+    <lastmod>2023-08-08T01:09:08+08:00</lastmod>
   </url><url>
     <loc>https://leo271828.github.io/tags/</loc>
-    <lastmod>2023-04-28T09:03:08+08:00</lastmod>
+    <lastmod>2023-08-08T01:09:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans-CN"
@@ -60,16 +63,22 @@
                 href="https://leo271828.github.io/tags/"
                 />
   </url><url>
-    <loc>https://leo271828.github.io/categories/theme-walden/</loc>
-    <lastmod>2023-04-28T09:03:08+08:00</lastmod>
+    <loc>https://leo271828.github.io/tags/%E7%A4%BE%E5%9C%98/</loc>
+    <lastmod>2023-08-08T01:09:08+08:00</lastmod>
   </url><url>
-    <loc>https://leo271828.github.io/tags/walden/</loc>
-    <lastmod>2023-04-28T09:03:08+08:00</lastmod>
+    <loc>https://leo271828.github.io/tags/hugo/</loc>
+    <lastmod>2023-04-27T02:12:52+00:00</lastmod>
   </url><url>
     <loc>https://leo271828.github.io/tags/shortcodes/</loc>
     <lastmod>2023-04-27T02:12:52+00:00</lastmod>
   </url><url>
     <loc>https://leo271828.github.io/blog/shortcodes-syntax-carousel/</loc>
+    <lastmod>2023-04-27T02:12:52+00:00</lastmod>
+  </url><url>
+    <loc>https://leo271828.github.io/categories/theme-walden/</loc>
+    <lastmod>2023-04-27T02:12:52+00:00</lastmod>
+  </url><url>
+    <loc>https://leo271828.github.io/tags/walden/</loc>
     <lastmod>2023-04-27T02:12:52+00:00</lastmod>
   </url><url>
     <loc>https://leo271828.github.io/blog/shortcodes-test/</loc>
