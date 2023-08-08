@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>大學 on Leo</title>
+    <link>https://leo271828.github.io/zh/tags/%E5%A4%A7%E5%AD%B8/</link>
+    <description>Recent content in 大學 on Leo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans-CN</language>
+    <managingEditor>leo2.7182818284@gmail.com (廖翊翔)</managingEditor>
+    <webMaster>leo2.7182818284@gmail.com (廖翊翔)</webMaster>
+    <lastBuildDate>Tue, 08 Aug 2023 02:07:08 +0800</lastBuildDate><atom:link href="https://leo271828.github.io/zh/tags/%E5%A4%A7%E5%AD%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>這還滿酷的我之後研究一下</title>
+      <link>https://leo271828.github.io/zh/blog/test2/</link>
+      <pubDate>Tue, 08 Aug 2023 02:07:08 +0800</pubDate>
+      <author>leo2.7182818284@gmail.com (廖翊翔)</author>
+      <guid>https://leo271828.github.io/zh/blog/test2/</guid>
+      <description>&lt;p&gt;介紹大學&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

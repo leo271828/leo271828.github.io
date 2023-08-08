@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leo271828.github.io/zh/tags/</loc>
-    <lastmod>2023-08-08T01:47:08+08:00</lastmod>
+    <lastmod>2023-08-08T02:07:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -15,8 +15,11 @@
                 href="https://leo271828.github.io/zh/tags/"
                 />
   </url><url>
+    <loc>https://leo271828.github.io/zh/tags/%E5%A4%A7%E5%AD%B8/</loc>
+    <lastmod>2023-08-08T02:07:08+08:00</lastmod>
+  </url><url>
     <loc>https://leo271828.github.io/zh/categories/</loc>
-    <lastmod>2023-08-08T01:47:08+08:00</lastmod>
+    <lastmod>2023-08-08T02:07:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -28,20 +31,11 @@
                 href="https://leo271828.github.io/zh/categories/"
                 />
   </url><url>
-    <loc>https://leo271828.github.io/zh/tags/%E5%92%95%E5%93%A9/</loc>
-    <lastmod>2023-08-08T01:47:08+08:00</lastmod>
-  </url><url>
-    <loc>https://leo271828.github.io/zh/blog/test1/</loc>
-    <lastmod>2023-08-08T01:47:08+08:00</lastmod>
-  </url><url>
-    <loc>https://leo271828.github.io/zh/tags/%E8%B2%93%E5%92%AA/</loc>
-    <lastmod>2023-08-08T01:47:08+08:00</lastmod>
-  </url><url>
     <loc>https://leo271828.github.io/zh/categories/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2023-08-08T01:47:08+08:00</lastmod>
+    <lastmod>2023-08-08T02:07:08+08:00</lastmod>
   </url><url>
     <loc>https://leo271828.github.io/zh/</loc>
-    <lastmod>2023-08-08T01:47:08+08:00</lastmod>
+    <lastmod>2023-08-08T02:07:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -54,7 +48,7 @@
                 />
   </url><url>
     <loc>https://leo271828.github.io/zh/blog/</loc>
-    <lastmod>2023-08-08T01:47:08+08:00</lastmod>
+    <lastmod>2023-08-08T02:07:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -65,5 +59,17 @@
                 hreflang="zh-Hans-CN"
                 href="https://leo271828.github.io/zh/blog/"
                 />
+  </url><url>
+    <loc>https://leo271828.github.io/zh/blog/test2/</loc>
+    <lastmod>2023-08-08T02:07:08+08:00</lastmod>
+  </url><url>
+    <loc>https://leo271828.github.io/zh/tags/%E5%92%95%E5%93%A9/</loc>
+    <lastmod>2023-08-08T01:47:08+08:00</lastmod>
+  </url><url>
+    <loc>https://leo271828.github.io/zh/blog/test1/</loc>
+    <lastmod>2023-08-08T01:47:08+08:00</lastmod>
+  </url><url>
+    <loc>https://leo271828.github.io/zh/tags/%E8%B2%93%E5%92%AA/</loc>
+    <lastmod>2023-08-08T01:47:08+08:00</lastmod>
   </url>
 </urlset>
