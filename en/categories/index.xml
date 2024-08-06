@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category on Leo</title>
+    <link>https://leo271828.github.io/en/categories/</link>
+    <description>Recent content in Category on Leo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>leo2.7182818284@gmail.com (Leo)</managingEditor>
+    <webMaster>leo2.7182818284@gmail.com (Leo)</webMaster>
+    <lastBuildDate>Tue, 08 Aug 2023 09:00:00 +0800</lastBuildDate><atom:link href="https://leo271828.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Math</title>
+      <link>https://leo271828.github.io/en/categories/math/</link>
+      <pubDate>Tue, 08 Aug 2023 09:00:00 +0800</pubDate>
+      <author>leo2.7182818284@gmail.com (Leo)</author>
+      <guid>https://leo271828.github.io/en/categories/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self</title>
+      <link>https://leo271828.github.io/en/categories/self/</link>
+      <pubDate>Tue, 08 Aug 2023 01:09:08 +0800</pubDate>
+      <author>leo2.7182818284@gmail.com (Leo)</author>
+      <guid>https://leo271828.github.io/en/categories/self/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme Walden</title>
+      <link>https://leo271828.github.io/en/categories/theme-walden/</link>
+      <pubDate>Thu, 27 Apr 2023 02:12:52 +0000</pubDate>
+      <author>leo2.7182818284@gmail.com (Leo)</author>
+      <guid>https://leo271828.github.io/en/categories/theme-walden/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

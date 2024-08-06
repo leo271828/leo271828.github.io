@@ -1,38 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Category on Leo</title>
+    <title>分類 on Leo</title>
     <link>https://leo271828.github.io/categories/</link>
-    <description>Recent content in Category on Leo</description>
+    <description>Recent content in 分類 on Leo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <managingEditor>leo2.7182818284@gmail.com (Leo)</managingEditor>
-    <webMaster>leo2.7182818284@gmail.com (Leo)</webMaster>
-    <lastBuildDate>Tue, 08 Aug 2023 09:00:00 +0800</lastBuildDate><atom:link href="https://leo271828.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-Hans-CN</language>
+    <managingEditor>leo2.7182818284@gmail.com (廖翊翔)</managingEditor>
+    <webMaster>leo2.7182818284@gmail.com (廖翊翔)</webMaster>
+    <lastBuildDate>Tue, 08 Aug 2023 02:07:08 +0800</lastBuildDate><atom:link href="https://leo271828.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Math</title>
-      <link>https://leo271828.github.io/categories/math/</link>
-      <pubDate>Tue, 08 Aug 2023 09:00:00 +0800</pubDate>
-      <author>leo2.7182818284@gmail.com (Leo)</author>
-      <guid>https://leo271828.github.io/categories/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self</title>
-      <link>https://leo271828.github.io/categories/self/</link>
-      <pubDate>Tue, 08 Aug 2023 01:09:08 +0800</pubDate>
-      <author>leo2.7182818284@gmail.com (Leo)</author>
-      <guid>https://leo271828.github.io/categories/self/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme Walden</title>
-      <link>https://leo271828.github.io/categories/theme-walden/</link>
-      <pubDate>Thu, 27 Apr 2023 02:12:52 +0000</pubDate>
-      <author>leo2.7182818284@gmail.com (Leo)</author>
-      <guid>https://leo271828.github.io/categories/theme-walden/</guid>
+      <title>其他</title>
+      <link>https://leo271828.github.io/categories/%E5%85%B6%E4%BB%96/</link>
+      <pubDate>Tue, 08 Aug 2023 02:07:08 +0800</pubDate>
+      <author>leo2.7182818284@gmail.com (廖翊翔)</author>
+      <guid>https://leo271828.github.io/categories/%E5%85%B6%E4%BB%96/</guid>
       <description></description>
     </item>
     

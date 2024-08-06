@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math on Leo</title>
+    <link>https://leo271828.github.io/en/categories/math/</link>
+    <description>Recent content in Math on Leo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>leo2.7182818284@gmail.com (Leo)</managingEditor>
+    <webMaster>leo2.7182818284@gmail.com (Leo)</webMaster>
+    <lastBuildDate>Tue, 08 Aug 2023 09:00:00 +0800</lastBuildDate><atom:link href="https://leo271828.github.io/en/categories/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About NCKU</title>
+      <link>https://leo271828.github.io/en/blog/article_1/</link>
+      <pubDate>Tue, 08 Aug 2023 09:00:00 +0800</pubDate>
+      <author>leo2.7182818284@gmail.com (Leo)</author>
+      <guid>https://leo271828.github.io/en/blog/article_1/</guid>
+      <description>&lt;p&gt;我會分享我在成大數學系這四年所遭遇的種種事蹟，同時提出一些本人的想法，努力的更新中&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

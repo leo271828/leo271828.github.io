@@ -1,58 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Leo</title>
+    <title>首頁 on Leo</title>
     <link>https://leo271828.github.io/</link>
-    <description>Recent content in Home on Leo</description>
+    <description>Recent content in 首頁 on Leo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <managingEditor>leo2.7182818284@gmail.com (Leo)</managingEditor>
-    <webMaster>leo2.7182818284@gmail.com (Leo)</webMaster>
-    <lastBuildDate>Tue, 08 Aug 2023 09:00:00 +0800</lastBuildDate><atom:link href="https://leo271828.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-Hans-CN</language>
+    <managingEditor>leo2.7182818284@gmail.com (廖翊翔)</managingEditor>
+    <webMaster>leo2.7182818284@gmail.com (廖翊翔)</webMaster>
+    <lastBuildDate>Tue, 08 Aug 2023 02:07:08 +0800</lastBuildDate><atom:link href="https://leo271828.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About NCKU</title>
-      <link>https://leo271828.github.io/blog/article_1/</link>
-      <pubDate>Tue, 08 Aug 2023 09:00:00 +0800</pubDate>
-      <author>leo2.7182818284@gmail.com (Leo)</author>
-      <guid>https://leo271828.github.io/blog/article_1/</guid>
-      <description>&lt;p&gt;我會分享我在成大數學系這四年所遭遇的種種事蹟，同時提出一些本人的想法，努力的更新中&lt;/p&gt;</description>
+      <title>這還滿酷的我之後研究一下</title>
+      <link>https://leo271828.github.io/blog/test2/</link>
+      <pubDate>Tue, 08 Aug 2023 02:07:08 +0800</pubDate>
+      <author>leo2.7182818284@gmail.com (廖翊翔)</author>
+      <guid>https://leo271828.github.io/blog/test2/</guid>
+      <description>&lt;p&gt;介紹大學&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Leo Liao</title>
-      <link>https://leo271828.github.io/blog/leo_self/</link>
-      <pubDate>Tue, 08 Aug 2023 01:09:08 +0800</pubDate>
-      <author>leo2.7182818284@gmail.com (Leo)</author>
-      <guid>https://leo271828.github.io/blog/leo_self/</guid>
-      <description>&lt;p&gt;早安各位，這是我自己架設的網站，你可以在這裡了解我這個人，也能看看我寫的文章，有任何問題都歡迎指教！&lt;/p&gt;
-&lt;!-- After reading &lt;i&gt;&lt;b&gt;Walden&lt;/b&gt;&lt;/i&gt;, a collection of essays by American writer Henry David Thoreau, I was deeply influenced by his love of nature and simple living. So, I wrote this concise and clear theme for my personal website and named it Walden. --&gt;</description>
-    </item>
-    
-    <item>
-      <title>Shortcodes Syntax - Carousel</title>
-      <link>https://leo271828.github.io/blog/shortcodes-syntax-carousel/</link>
-      <pubDate>Thu, 27 Apr 2023 02:12:52 +0000</pubDate>
-      <author>leo2.7182818284@gmail.com (Leo)</author>
-      <guid>https://leo271828.github.io/blog/shortcodes-syntax-carousel/</guid>
-      <description>&lt;p&gt;Carousel is a useful shortcode in theme Walden, Used to display multiple images with their information.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Shortcodes Test</title>
-      <link>https://leo271828.github.io/blog/shortcodes-syntax/</link>
-      <pubDate>Wed, 26 Apr 2023 06:04:57 +0000</pubDate>
-      <author>leo2.7182818284@gmail.com (Leo)</author>
-      <guid>https://leo271828.github.io/blog/shortcodes-syntax/</guid>
-      <description>&lt;p&gt;Shortcodes are simple snippets inside your content files calling built-in or custom templates. They are created to circumvent the limitations of Markdown Syntax.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax</title>
-      <link>https://leo271828.github.io/blog/markdown-syntax/</link>
-      <pubDate>Wed, 26 Apr 2023 01:04:58 +0000</pubDate>
-      <author>leo2.7182818284@gmail.com (Leo)</author>
-      <guid>https://leo271828.github.io/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;Markdown is a lightweight markup language used to add formatting elements to plaintext text documents. This article shows the syntax of markdown elements in hugo theme Walden.&lt;/p&gt;</description>
+      <title>咕哩</title>
+      <link>https://leo271828.github.io/blog/test1/</link>
+      <pubDate>Tue, 08 Aug 2023 01:47:08 +0800</pubDate>
+      <author>leo2.7182818284@gmail.com (廖翊翔)</author>
+      <guid>https://leo271828.github.io/blog/test1/</guid>
+      <description>&lt;p&gt;咕哩是一隻迷人的貓咪，他的品種是米克斯，總是以可愛的外表和獨特的個性吸引著人們的目光。他曾在不久前的3月9日到3月13日，展開了一場令人難以忘懷的日本之旅，遊歷了大阪和京都這兩個令人嚮往的城市，縱情享受了五天的奇妙時光。&lt;/p&gt;</description>
     </item>
     
   </channel>

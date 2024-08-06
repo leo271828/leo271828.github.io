@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>社團 on Leo</title>
+    <link>https://leo271828.github.io/en/tags/%E7%A4%BE%E5%9C%98/</link>
+    <description>Recent content in 社團 on Leo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>leo2.7182818284@gmail.com (Leo)</managingEditor>
+    <webMaster>leo2.7182818284@gmail.com (Leo)</webMaster>
+    <lastBuildDate>Tue, 08 Aug 2023 01:09:08 +0800</lastBuildDate><atom:link href="https://leo271828.github.io/en/tags/%E7%A4%BE%E5%9C%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leo Liao</title>
+      <link>https://leo271828.github.io/en/blog/leo_self/</link>
+      <pubDate>Tue, 08 Aug 2023 01:09:08 +0800</pubDate>
+      <author>leo2.7182818284@gmail.com (Leo)</author>
+      <guid>https://leo271828.github.io/en/blog/leo_self/</guid>
+      <description>&lt;p&gt;早安各位，這是我自己架設的網站，你可以在這裡了解我這個人，也能看看我寫的文章，有任何問題都歡迎指教！&lt;/p&gt;
+&lt;!-- After reading &lt;i&gt;&lt;b&gt;Walden&lt;/b&gt;&lt;/i&gt;, a collection of essays by American writer Henry David Thoreau, I was deeply influenced by his love of nature and simple living. So, I wrote this concise and clear theme for my personal website and named it Walden. --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
